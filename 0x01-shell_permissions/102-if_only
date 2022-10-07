@@ -1,6 +1,2 @@
 #!/bin/bash
-<<<<<<< HEAD
 chown --from=guillaume betty hello
-=======
-if 
->>>>>>> 8c8c40551d310489af0c356a3ca51c29c0a5aa6e
